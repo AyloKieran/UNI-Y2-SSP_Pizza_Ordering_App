@@ -1,0 +1,1 @@
+<img src="/pizza.png" {{ $attributes }}></img>
